@@ -2,7 +2,7 @@
 - 👀 I’m interested in Spore, anatomy, animals, and modding games
 - 🌱 I’m currently learning how to code
 !
-- 📫 How to reach me, i have discord, (onepiece.consumer) i also have a email (goobydookb@gmsil.com).
+- 📫 How to reach me, i have discord, (onepiece.consumer) i also have a email (goobydookb@gmail.com).
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Octopi have no butts, so they poop out of their mouths!
 
