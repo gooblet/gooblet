@@ -4,7 +4,7 @@
 !
 - 📫 How to reach me, i have discord, (onepiece.consumer) i also have a email (goobydookb@gmail.com).
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: Octopi have no butts, so they poop out of their mouths!
+
 
 <!---
 gooblet/gooblet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
