@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @gooblet
-- 👀 I’m interested in Spore, anatomy, animals, and modding games
-- 🌱 I’m currently learning how to code
+-  Hi, I’m @gooblet
+-  I’m interested in Spore, anatomy, animals, and modding games
+-  I’m currently learning how to code
 !
-- 📫 How to reach me, i have discord, (onepiece.consumer) i also have a email (goobydookb@gmail.com).
-- 😄 Pronouns: She/her
+-  How to reach me, i have discord, (lilgooblet) i also have a email (goobydookb@gmail.com).
+-  Pronouns: She/her
 
 
 <!---
